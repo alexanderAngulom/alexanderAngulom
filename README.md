@@ -39,5 +39,6 @@ Feel free to reach out to me if you're interested in collaborating on exciting p
 - ![Git](https://img.icons8.com/color/48/000000/git.png) Git
 
 
-[LinkedIn](https://www.linkedin.com/in/jorge-alexander-angulo-mueses-b26951175) | [Instagram](https://www.instagram.com/alexander_angulo09)
+[![LinkedIn](https://www.linkedin.com/in/jorge-alexander-angulo-mueses-b26951175) | 
+[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/alexander_angulo09)
 

@@ -2,9 +2,18 @@
 
 Full Stack Developer | Software Engineer
 
-[LinkedIn](https://www.linkedin.com/in/jorge-alexander-angulo-mueses-b26951175) | [Instagram](https://www.instagram.com/alexander_angulo09)
+## About Me
 
-## Skills Técnicas
+I am a passionate Full Stack Developer with experience in designing, developing, and deploying web and mobile applications. I specialize in technologies such as Java, Angular, and Python, and I enjoy working in agile and collaborative environments.
+
+I am always eager to learn new technologies and tackle technical challenges. I love building scalable and efficient solutions that solve real-world problems and provide an exceptional user experience.
+
+Feel free to reach out to me if you're interested in collaborating on exciting projects or if you have any questions about my work.
+
+
+
+
+## Technical Skills
 
 - ![JHipster](https://img.icons8.com/color/48/000000/jhipster.png) JHipster
 - ![Docker](https://img.icons8.com/color/48/000000/docker.png) Docker
@@ -29,10 +38,6 @@ Full Stack Developer | Software Engineer
 - ![Keycloak](https://img.icons8.com/color/48/000000/keycloak.png) Keycloak
 - ![Git](https://img.icons8.com/color/48/000000/git.png) Git
 
-## Sobre mí
 
-Soy un apasionado desarrollador Full Stack con experiencia en el diseño, desarrollo y despliegue de aplicaciones web y móviles. Me especializo en tecnologías como Java, Angular y Python, y disfruto trabajando en entornos ágiles y colaborativos.
+[LinkedIn](https://www.linkedin.com/in/jorge-alexander-angulo-mueses-b26951175) | [Instagram](https://www.instagram.com/alexander_angulo09)
 
-Siempre busco aprender nuevas tecnologías y enfrentar desafíos técnicos. Me encanta construir soluciones escalables y eficientes que resuelvan problemas del mundo real y brinden una experiencia de usuario excepcional.
-
-No dudes en contactarme si estás interesado en colaborar en proyectos emocionantes o si tienes alguna pregunta sobre mi trabajo.

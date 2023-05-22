@@ -15,7 +15,7 @@ Feel free to reach out to me if you're interested in collaborating on exciting p
 
 ## Technical Skills 🛠 
 
-- ![JHipster](https://img.icons8.com/color/48/000000/jhipster.png) JHipster
+- ![JHipster](https://www.jhipster.tech/images/logo/jhipster_family_member_0.svg) JHipster
 - ![Docker](https://img.icons8.com/color/48/000000/docker.png) Docker
 - ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
 - ![Angular](https://img.icons8.com/color/48/000000/angularjs.png) Angular

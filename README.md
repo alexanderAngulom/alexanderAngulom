@@ -1,8 +1,8 @@
-# Jorge Alexander Angulo Mueses
+# Jorge Alexander Angulo Mueses 👋
 
 Full Stack Developer | Software Engineer
 
-## About Me
+## About Me 🚀 
 
 I am a passionate Full Stack Developer with experience in designing, developing, and deploying web and mobile applications. I specialize in technologies such as Java, Angular, and Python, and I enjoy working in agile and collaborative environments.
 
@@ -13,7 +13,7 @@ Feel free to reach out to me if you're interested in collaborating on exciting p
 
 
 
-## Technical Skills
+## Technical Skills 🛠 
 
 - ![JHipster](https://img.icons8.com/color/48/000000/jhipster.png) JHipster
 - ![Docker](https://img.icons8.com/color/48/000000/docker.png) Docker
@@ -23,7 +23,7 @@ Feel free to reach out to me if you're interested in collaborating on exciting p
 - ![Python](https://img.icons8.com/color/48/000000/python.png) Python
 - ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) TypeScript
 - ![Ionic](https://img.icons8.com/color/48/000000/ionic.png) Ionic
-- ![Android](https://img.icons8.com/color/48/000000/android.png) Android Native (Java, Kotlin)
+- ![Android](https://icons8.com/icon/2586/android-os) Android Native (Java, Kotlin)
 - ![SQL](https://img.icons8.com/color/48/000000/sql.png) SQL
 - ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB
 - ![Heroku](https://img.icons8.com/color/48/000000/heroku.png) Heroku
@@ -39,7 +39,7 @@ Feel free to reach out to me if you're interested in collaborating on exciting p
 - ![Git](https://img.icons8.com/color/48/000000/git.png) Git
 
 
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/in/jorge-alexander-angulo-mueses-b26951175) jorge-alexander-angulo-mueses | 
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/) jorge-alexander-angulo-mueses | 
 [![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/alexander_angulo09)
 alexander_angulo09
 

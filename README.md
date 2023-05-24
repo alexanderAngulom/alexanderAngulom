@@ -1,45 +1,14 @@
-# Jorge Alexander Angulo Mueses 👋
+<h1 align="center">Hi 👋, I'm Alexander</h1>
+<h3 align="center">I am a passionate Full Stack Developer with experience in designing, developing, and deploying web and mobile applications. I specialize in technologies such as Java, Angular, and Python, and I enjoy working in agile and collaborative environments. I am always eager to learn new technologies and tackle technical challenges. I love building scalable and efficient solutions that solve real-world problems and provide an exceptional user experience. Feel free to reach out to me if you're interested in collaborating on exciting projects or if you have any questions about my work.</h3>
 
-Full Stack Developer | Software Engineer
+- 📫 How to reach me **jalexander9609@gmail.com**
 
-## About Me 🚀 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/jorge-alexander-angulo-mueses-b26951175/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/jorge-alexander-angulo-mueses-b26951175/" height="30" width="40" /></a>
+<a href="https://instagram.com/alexander_angulo09" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="alexander_angulo09" height="30" width="40" /></a>
+</p>
 
-I am a passionate Full Stack Developer with experience in designing, developing, and deploying web and mobile applications. I specialize in technologies such as Java, Angular, and Python, and I enjoy working in agile and collaborative environments.
-
-I am always eager to learn new technologies and tackle technical challenges. I love building scalable and efficient solutions that solve real-world problems and provide an exceptional user experience.
-
-Feel free to reach out to me if you're interested in collaborating on exciting projects or if you have any questions about my work.
-
-
-
-
-## Technical Skills 🛠 
-
-- ![JHipster]() JHipster
-- ![Docker](https://img.icons8.com/color/48/000000/docker.png) Docker
-- ![Java](https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png) Java
-- ![Angular](https://img.icons8.com/color/48/000000/angularjs.png) Angular
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
-- ![Python](https://img.icons8.com/color/48/000000/python.png) Python
-- ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) TypeScript
-- ![Ionic](https://img.icons8.com/color/48/000000/ionic.png) Ionic
-- ![Android](https://icons8.com/icon/2586/android-os) Android Native (Java, Kotlin)
-- ![SQL](https://img.icons8.com/color/48/000000/sql.png) SQL
-- ![MongoDB](https://img.icons8.com/color/48/000000/mongodb.png) MongoDB
-- ![Heroku](https://img.icons8.com/color/48/000000/heroku.png) Heroku
-- ![Spring Boot](https://img.icons8.com/color/48/000000/spring-logo.png) Spring Boot
-- ![HTML](https://img.icons8.com/color/48/000000/html-5.png) HTML
-- ![CSS](https://img.icons8.com/color/48/000000/css3.png) CSS
-- ![API Development](https://img.icons8.com/color/48/000000/api-settings.png) API Development
-- ![Express.js](https://img.icons8.com/color/48/000000/express.png) Express.js
-- ![FastAPI](https://img.icons8.com/color/48/000000/api.png) FastAPI
-- ![Auth0](https://img.icons8.com/color/48/000000/auth0.png) Auth0
-- ![Okta](https://img.icons8.com/color/48/000000/okta.png) Okta
-- ![Keycloak](https://img.icons8.com/color/48/000000/keycloak.png) Keycloak
-- ![Git](https://img.icons8.com/color/48/000000/git.png) Git
-
-
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](https://www.linkedin.com/) jorge-alexander-angulo-mueses | 
-[![Instagram](https://img.icons8.com/color/48/000000/instagram-new.png)](https://www.instagram.com/alexander_angulo09)
-alexander_angulo09
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
